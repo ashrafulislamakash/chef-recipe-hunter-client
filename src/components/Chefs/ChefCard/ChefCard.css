@@ -1,0 +1,13 @@
+.chef-priority {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  border: 1px solid #8f4d0b;
+}
+
+.card-image {
+  padding: 10px;
+  border-radius: 20px;
+}
